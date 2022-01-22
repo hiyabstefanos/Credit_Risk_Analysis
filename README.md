@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-Use Python and Scikit-learn to create a supervised machine learning model.
+Use imbalanced-learn and scikit-learn to create a supervised machine learning model.
 
 ## Overview of the analysis:
 
